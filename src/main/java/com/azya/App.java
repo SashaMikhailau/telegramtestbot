@@ -26,6 +26,7 @@ public class App
             System.out.println("Wrong");
             System.out.println("Master feature");
             System.out.println("NewBranch");
+            System.out.println("AnotherNewBranch");
         }
 
     }
