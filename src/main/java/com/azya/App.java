@@ -19,6 +19,7 @@ public class App
         } catch (TelegramApiRequestException e) {
             e.printStackTrace();
             System.out.println("123");
+            System.out.println("123");
         }
 
     }
