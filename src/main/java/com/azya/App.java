@@ -20,11 +20,6 @@ public class App
             e.printStackTrace();
             System.out.println("123");
             System.out.println("123");
-            System.out.println("Wrong");
-            System.out.println("Wrong");
-            System.out.println("Wrong");
-            System.out.println("Wrong");
-            System.out.println("Wrong");
         }
 
     }
