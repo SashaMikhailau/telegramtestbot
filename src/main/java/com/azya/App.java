@@ -18,6 +18,7 @@ public class App
             telegramBotsApi.registerBot(new Bot());
         } catch (TelegramApiRequestException e) {
             e.printStackTrace();
+            System.out.println("123");
         }
 
     }
