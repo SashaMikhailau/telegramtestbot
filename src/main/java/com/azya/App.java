@@ -19,15 +19,6 @@ public class App
         } catch (TelegramApiRequestException e) {
             e.printStackTrace();
             System.out.println("123");
-            System.out.println("123");
-            System.out.println("Wrong");
-            System.out.println("Wrong");
-            System.out.println("Wrong");
-            System.out.println("Wrong");
-            System.out.println("Master feature");
-            System.out.println("NewBranch");
-            System.out.println("AnotherNewBranch");
-            System.out.println("Change in master before rebase");
         }
 
     }
